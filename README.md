@@ -1,6 +1,8 @@
 # CraftLogic: Crochet 
 **Version 0.1 — Console Prototype**
 
+A beginner-friendly CLI prototype that generates crochet project guidance (Blanket Builder + “Recreate from Photo” demo) with back/quit navigation.
+
 CraftLogic: Crochet is an early-stage pattern-planning tool designed to help crocheters calculate blanket dimensions, borders, and estimated yarn requirements without guesswork.
 
 This version is a **Python console prototype**, built to validate logic, user flow, and core calculations before moving toward a graphical or mobile interface.
