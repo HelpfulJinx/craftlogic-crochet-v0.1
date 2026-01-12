@@ -69,3 +69,4 @@ These are intentional tradeoffs for an early prototype.
 3. Run:
 
 ```bash
+python "CraftLogicCrochet v0.1.py"
